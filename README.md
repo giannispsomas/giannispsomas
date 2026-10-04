@@ -16,6 +16,8 @@
 
 <p align="center">🌍 <b>Open to remote data analyst opportunities with teams anywhere in the world</b></p>
 
+<img src="https://raw.githubusercontent.com/giannispsomas/giannispsomas/main/divider.png" width="100%" height="1" alt="">
+
 ## 👋 About me
 
 Data analyst, Microsoft PL-300 certified, with end-to-end project experience in SQL Server (T-SQL), Python and Power BI. I turn raw commercial data into actionable retention and churn insights, and I am looking for a remote data analyst role.
