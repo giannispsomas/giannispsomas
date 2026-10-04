@@ -82,7 +82,7 @@ A fintech case study on a (fictional, synthetic-data) mobile bank. **Which acqui
 
 ## 🛠️ Skills
 
-**Data and BI**
+**Data & BI**
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-T--SQL-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![SSMS](https://img.shields.io/badge/SSMS-0078D4?logo=microsoft&logoColor=white)
