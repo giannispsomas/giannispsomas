@@ -18,11 +18,11 @@
 
 ## 👋 About me
 
-Data analyst, Microsoft PL-300 certified, with end-to-end project experience in SQL Server (T-SQL), Python and Power BI, from data modelling and cleaning to dashboards. I turn raw commercial data into actionable retention and churn insights, and I am looking for a remote data analyst role.
+Data analyst, Microsoft PL-300 certified, with end-to-end project experience in SQL Server (T-SQL), Python and Power BI. I turn raw commercial data into actionable retention and churn insights, and I am looking for a remote data analyst role.
 
 My projects follow one standard: data is cleaned and validated, assumptions are documented, every figure traces back to a query, and each analysis ends with a recommendation.
 
-- 🔧 **How I work:** I start in **SQL Server (T-SQL)**, profiling and cleaning the raw data and shaping it into a star schema. I take the deeper analysis to **Python** (pandas, scikit-learn) for segmentation, cohorts and predictive scoring. I finish in **Power BI**, with a DAX data model and a dashboard people can use.
+- 🔧 **How I work:** I clean and model raw data in **SQL Server (T-SQL)**, run the deeper analysis in **Python** (pandas, scikit-learn), and present the results in **Power BI** with a DAX model and a dashboard people can use.
 - 🎯 **What I focus on:** Customer analytics: retention and churn, segmentation, cohorts, acquisition economics and dashboard design.
 - 🗣️ **Languages:** English (C2) · German (B2) · French (B2). I can work in an international team.
 - 📜 **Certified:** Microsoft **PL-300** (Power BI Data Analyst) · Harvard **CS50x**
@@ -75,12 +75,14 @@ A fintech case study on a (fictional, synthetic-data) mobile bank. **Which acqui
 ## 🛠️ Skills
 
 **Data and BI**
+
 ![SQL Server](https://img.shields.io/badge/SQL_Server-T--SQL-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![SSMS](https://img.shields.io/badge/SSMS-0078D4?logo=microsoft&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-DAX_·_Power_Query-F2C811?logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
 
 **Python**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
@@ -89,9 +91,11 @@ A fintech case study on a (fictional, synthetic-data) mobile bank. **Which acqui
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 
 **Methods**
+
 Data cleaning and validation · Star schema modelling · Cohort analysis · RFM segmentation · K-means clustering · Logistic regression · Dashboard design
 
 **Tools**
+
 Git · GitHub
 
 ## 📫 Let's talk
