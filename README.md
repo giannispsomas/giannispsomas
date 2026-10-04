@@ -30,7 +30,7 @@ My projects follow one standard: data is cleaned and validated, assumptions are 
 
 ## 🚀 Featured projects
 
-### 1. [End-to-End Retail Retention Analysis](https://github.com/giannispsomas/End-to-End-Retail-Retention-Analysis)
+### 1. [End-To-End Retail Retention Analysis](https://github.com/giannispsomas/End-To-End-Retail-Retention-Analysis)
 `SQL Server (T-SQL)` `Python` `pandas` `scikit-learn` `Matplotlib` `Seaborn` `Power BI (DAX)` — *1M+ transactions*
 
 **The question:** Where is an online retailer losing customers, and how much revenue can be won back?
@@ -49,20 +49,20 @@ My projects follow one standard: data is cleaned and validated, assumptions are 
 - **Key accounts:** Assign dedicated account management to the 42 highest-value customers, who hold 27% of revenue.
 - **Win-back:** Prioritise outreach to the 589 customers who lapsed 91–180 days ago, the most recoverable group.
 
-📊 [**Power BI report (PDF)**](https://github.com/giannispsomas/End-to-End-Retail-Retention-Analysis/blob/main/power_bi/OnlineRetailII.pdf) · 🎥 [**Video walkthrough**](https://youtu.be/I_UvFsbfLRI) · 📄 [**Project brief**](https://github.com/giannispsomas/End-to-End-Retail-Retention-Analysis/blob/main/Project%20Brief.pdf)
+📊 [**Power BI report (PDF)**](https://github.com/giannispsomas/End-To-End-Retail-Retention-Analysis/blob/main/power_bi/Retention_Analysis.pdf) · 🎥 [**Video walkthrough**](https://youtu.be/I_UvFsbfLRI) · 📄 [**Project brief**](https://github.com/giannispsomas/End-To-End-Retail-Retention-Analysis/blob/main/Project%20Brief.pdf)
 
 <p align="center">
-  <a href="https://github.com/giannispsomas/End-to-End-Retail-Retention-Analysis/blob/main/power_bi/OnlineRetailII.pdf">
-    <img src="https://github.com/giannispsomas/End-to-End-Retail-Retention-Analysis/raw/main/power_bi/images/1_Business_Overview.png" alt="Power BI dashboard: business overview" width="48%">
+  <a href="https://github.com/giannispsomas/End-To-End-Retail-Retention-Analysis/blob/main/power_bi/Retention_Analysis.pdf">
+    <img src="https://github.com/giannispsomas/End-To-End-Retail-Retention-Analysis/raw/main/power_bi/images/1_Business_Overview.png" alt="Power BI dashboard: business overview" width="48%">
   </a>
-  <a href="https://github.com/giannispsomas/End-to-End-Retail-Retention-Analysis/blob/main/power_bi/OnlineRetailII.pdf">
-    <img src="https://github.com/giannispsomas/End-to-End-Retail-Retention-Analysis/raw/main/power_bi/images/4_Customer_Segmentation.png" alt="Power BI dashboard: customer segmentation" width="48%">
+  <a href="https://github.com/giannispsomas/End-To-End-Retail-Retention-Analysis/blob/main/power_bi/Retention_Analysis.pdf">
+    <img src="https://github.com/giannispsomas/End-To-End-Retail-Retention-Analysis/raw/main/power_bi/images/4_Customer_Segmentation.png" alt="Power BI dashboard: customer segmentation" width="48%">
   </a>
-  <a href="https://github.com/giannispsomas/End-to-End-Retail-Retention-Analysis/blob/main/power_bi/OnlineRetailII.pdf">
-    <img src="https://github.com/giannispsomas/End-to-End-Retail-Retention-Analysis/raw/main/power_bi/images/5_Cohort_and_Retention.png" alt="Power BI dashboard: cohort and retention" width="48%">
+  <a href="https://github.com/giannispsomas/End-To-End-Retail-Retention-Analysis/blob/main/power_bi/Retention_Analysis.pdf">
+    <img src="https://github.com/giannispsomas/End-To-End-Retail-Retention-Analysis/raw/main/power_bi/images/5_Cohort_and_Retention.png" alt="Power BI dashboard: cohort and retention" width="48%">
   </a>
-  <a href="https://github.com/giannispsomas/End-to-End-Retail-Retention-Analysis/blob/main/power_bi/OnlineRetailII.pdf">
-    <img src="https://github.com/giannispsomas/End-to-End-Retail-Retention-Analysis/raw/main/power_bi/images/6_Churn_Risk.png" alt="Power BI dashboard: churn risk" width="48%">
+  <a href="https://github.com/giannispsomas/End-To-End-Retail-Retention-Analysis/blob/main/power_bi/Retention_Analysis.pdf">
+    <img src="https://github.com/giannispsomas/End-To-End-Retail-Retention-Analysis/raw/main/power_bi/images/6_Churn_Risk.png" alt="Power BI dashboard: churn risk" width="48%">
   </a>
 </p>
 
