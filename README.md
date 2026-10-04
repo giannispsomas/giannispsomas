@@ -4,7 +4,7 @@
 <p align="center"><i>Clean data, clear answers, and recommendations worth acting on.</i></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/giannis-psomas/"><img src="https://img.shields.io/badge/LinkedIn-giannis--psomas-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/giannispsomas/"><img src="https://img.shields.io/badge/LinkedIn-giannis--psomas-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:psomasgiannis2001@gmail.com?subject=Hello%20Giannis"><img src="https://img.shields.io/badge/Email-psomasgiannis2001%40gmail.com-D14836?logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/46493298/6C43F06A1C2655B1?sharingId=47388BA7B38FAAB"><img src="https://img.shields.io/badge/Microsoft-PL--300_Certified-0078D4?logo=microsoft&logoColor=white" alt="Microsoft PL-300 certification"></a>
   <a href="https://cs50.harvard.edu/certificates/d87a5b73-d158-42b2-8997-17aa7e955e02"><img src="https://img.shields.io/badge/Harvard-CS50x_Certified-A51C30?logo=harvard&logoColor=white" alt="Harvard CS50x certificate"></a>
