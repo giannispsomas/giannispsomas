@@ -18,17 +18,19 @@
 
 ## 👋 About me
 
-I'm a data analyst who cares about numbers that actually reconcile. I like turning messy, real-world data into answers a business can use. Every project I build follows one standard: the data is cleaned and validated, assumptions are written down, every figure traces back to a query, and the work ends with a recommendation rather than just a chart.
+Data analyst, Microsoft PL-300 certified, with end-to-end project experience in SQL Server (T-SQL), Python and Power BI, from data modelling and cleaning to dashboards. I turn raw commercial data into actionable retention and churn insights, and I am looking for a remote data analyst role.
+
+My projects follow one standard: data is cleaned and validated, assumptions are documented, every figure traces back to a query, and each analysis ends with a recommendation.
 
 - 🔧 **How I work:** I start in **SQL Server (T-SQL)**, profiling and cleaning the raw data and shaping it into a star schema. I take the deeper analysis to **Python** (pandas, scikit-learn) for segmentation, cohorts and predictive scoring. I finish in **Power BI**, with a DAX data model and a dashboard people can use.
-- 🎯 **What I focus on:** understanding customers. Who stays, who leaves, who is worth the most, and what it costs to win them. That covers retention and churn analysis, RFM segmentation, cohort analysis, acquisition economics (CAC, LTV, payback) and clear dashboard design.
+- 🎯 **What I focus on:** Customer analytics: retention and churn, segmentation, cohorts, acquisition economics and dashboard design.
 - 🗣️ **Languages:** English (C2) · German (B2) · French (B2). I can work in an international team.
 - 📜 **Certified:** Microsoft **PL-300** (Power BI Data Analyst) · Harvard **CS50x**
 
 ## 🚀 Featured projects
 
 ### 1. [End-to-End Retail Retention Analysis](https://github.com/giannispsomas/End-to-End-Retail-Retention-Analysis)
-`SQL Server (T-SQL)` `Python` `scikit-learn` `Power BI (DAX)` — *1M+ transactions*
+`SQL Server (T-SQL)` `Python` `pandas` `scikit-learn` `Matplotlib` `Seaborn` `Power BI (DAX)` — *1M+ transactions*
 
 **The question:** Where is an online retailer losing customers, and how much revenue can be won back?
 
@@ -38,7 +40,11 @@ I'm a data analyst who cares about numbers that actually reconcile. I like turni
 - **Churn scoring:** Logistic regression (**ROC-AUC 0.77**). **51% of customers have been inactive for 90+ days, holding £3.30M (17%) of historical revenue.**
 - **Dashboard:** 6-page Power BI report with 21 DAX measures, plus prioritised win-back recommendations.
 
-**Recommendations:** a day-30 follow-up before the median day-57 second order, dedicated account management for the top 42 customers, and win-back outreach to the 589 customers who lapsed 91–180 days ago.
+**Recommendations:**
+
+- **Early retention:** Launch a day-30 follow-up campaign to repeat buyers, before the median day-57 second order.
+- **Key accounts:** Assign dedicated account management to the 42 highest-value customers, who hold 27% of revenue.
+- **Win-back:** Prioritise outreach to the 589 customers who lapsed 91–180 days ago, the most recoverable group.
 
 📊 [**Power BI report (PDF)**](https://github.com/giannispsomas/End-to-End-Retail-Retention-Analysis/blob/main/power_bi/OnlineRetailII.pdf) · 🎥 [**Video walkthrough**](https://youtu.be/I_UvFsbfLRI) · 📄 [**Project brief**](https://github.com/giannispsomas/End-to-End-Retail-Retention-Analysis/blob/main/Project%20Brief.pdf)
 
@@ -68,7 +74,7 @@ A fintech case study on a (fictional, synthetic-data) mobile bank. **Which acqui
 
 ## 🛠️ Skills
 
-**Data & BI**
+**Data and BI**
 ![SQL Server](https://img.shields.io/badge/SQL_Server-T--SQL-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![SSMS](https://img.shields.io/badge/SSMS-0078D4?logo=microsoft&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-DAX_·_Power_Query-F2C811?logo=powerbi&logoColor=black)
@@ -82,13 +88,15 @@ A fintech case study on a (fictional, synthetic-data) mobile bank. **Which acqui
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 
-**Methods:** data cleaning & validation · star-schema modelling · cohort analysis · RFM segmentation · K-Means · logistic regression · dashboard design
+**Methods**
+Data cleaning and validation · Star schema modelling · Cohort analysis · RFM segmentation · K-means clustering · Logistic regression · Dashboard design
 
-**Tools:** Git · GitHub
+**Tools**
+Git · GitHub
 
 ## 📫 Let's talk
 
-I'm open to **remote data analyst roles**, working with teams wherever they are. If you want someone who cleans the data properly and ends with a recommendation you can act on, get in touch.
+I'm open to **remote data analyst roles**, working with teams wherever they are.
 
 **[LinkedIn](https://www.linkedin.com/in/giannis-psomas/)** · **[psomasgiannis2001@gmail.com](mailto:psomasgiannis2001@gmail.com)**
 
