@@ -8,6 +8,7 @@
   <a href="mailto:psomasgiannis2001@gmail.com?subject=Hello%20Giannis"><img src="https://img.shields.io/badge/Email-psomasgiannis2001%40gmail.com-D14836?logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/46493298/6C43F06A1C2655B1?sharingId=47388BA7B38FAAB"><img src="https://img.shields.io/badge/Microsoft-PL--300_Certified-0078D4?logo=microsoft&logoColor=white" alt="Microsoft PL-300 certification"></a>
   <a href="https://cs50.harvard.edu/certificates/d87a5b73-d158-42b2-8997-17aa7e955e02"><img src="https://img.shields.io/badge/Harvard-CS50x_Certified-A51C30?logo=harvard&logoColor=white" alt="Harvard CS50x certificate"></a>
+  <a href="https://github.com/giannispsomas/giannispsomas/blob/main/Giannis-Psomas-CV.pdf"><img src="https://img.shields.io/badge/CV-View_PDF-444444?logo=readthedocs&logoColor=white" alt="Giannis Psomas CV (PDF)"></a>
 </p>
 
 <p align="center">📍 Athens, Greece (UTC+2 / UTC+3)</p>
