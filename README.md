@@ -10,12 +10,11 @@
   <a href="https://cs50.harvard.edu/certificates/d87a5b73-d158-42b2-8997-17aa7e955e02"><img src="https://img.shields.io/badge/Harvard-CS50x_Certified-A51C30?logo=harvard&logoColor=white" alt="Harvard CS50x certificate"></a>
 </p>
 
-<p align="center">
-  📍 Athens, Greece (UTC+2 / UTC+3) &nbsp;·&nbsp; 🇪🇺 Eligible to work in the EU<br>
-  🌍 <b>Open to remote data analyst opportunities with teams anywhere in the world</b>
-</p>
+<p align="center">📍 Athens, Greece (UTC+2 / UTC+3)</p>
 
----
+<p align="center">🇪🇺 Eligible to work in the EU</p>
+
+<p align="center">🌍 <b>Open to remote data analyst opportunities with teams anywhere in the world</b></p>
 
 ## 👋 About me
 
@@ -25,7 +24,7 @@ My projects follow one standard: data is cleaned and validated, assumptions are 
 
 - 🔧 **How I work:** I clean and model raw data in **SQL Server (T-SQL)**, run the deeper analysis in **Python** (pandas, scikit-learn), and present the results in **Power BI** with a DAX model and a dashboard people can use.
 - 🎯 **What I focus on:** Customer analytics: retention and churn, segmentation, cohorts, acquisition economics and dashboard design.
-- 🗣️ **Languages:** English (C2) · German (B2) · French (B2). I can work in an international team.
+- 🗣️ **Languages:** English (C2) · German (B2) · French (B2)
 - 📜 **Certified:** Microsoft **PL-300** (Power BI Data Analyst) · Harvard **CS50x**
 
 ## 🚀 Featured projects
@@ -40,7 +39,7 @@ My projects follow one standard: data is cleaned and validated, assumptions are 
 - **Data modelling:** Built a Kimball star schema from 1M+ raw rows, removing **11,812 duplicates** and resolving 83 multi-date invoices. Revenue reconciles to **£19.64M**.
 - **SQL analysis:** CTEs, window functions, `PIVOT` and a stored procedure. **72% of customers are repeat buyers and generate 97% of revenue.**
 - **Segmentation and cohorts:** RFM and K-Means on 5,852 customers. **42 customers hold 27% of revenue.** Retention peaks at ~22% in month 2, then erodes.
-- **Churn scoring:** Logistic regression (**ROC-AUC 0.77**). **51% of customers have been inactive for 90+ days, holding £3.30M (17%) of historical revenue.**
+- **Churn scoring:** Logistic regression (**ROC-AUC 0.77**) scoring every customer's churn risk and sizing the revenue at stake.
 - **Dashboard:** 6-page Power BI report with 21 DAX measures, plus prioritised win-back recommendations.
 
 **Recommendations:**
