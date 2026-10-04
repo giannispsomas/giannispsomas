@@ -11,7 +11,8 @@
 </p>
 
 <p align="center">
-  📍 Athens, Greece &nbsp;·&nbsp; 🌍 <b>Open to remote data analyst opportunities with teams anywhere in the world</b>
+  📍 Athens, Greece (UTC+2 / UTC+3) &nbsp;·&nbsp; 🇪🇺 Eligible to work in the EU<br>
+  🌍 <b>Open to remote data analyst opportunities with teams anywhere in the world</b>
 </p>
 
 ---
@@ -34,6 +35,8 @@ My projects follow one standard: data is cleaned and validated, assumptions are 
 
 **The question:** Where is an online retailer losing customers, and how much revenue can be won back?
 
+**The answer in one line:** 51% of customers have been inactive for 90+ days and hold £3.30M of historical revenue, and 589 recently lapsed customers are the most recoverable group.
+
 - **Data modelling:** Built a Kimball star schema from 1M+ raw rows, removing **11,812 duplicates** and resolving 83 multi-date invoices. Revenue reconciles to **£19.64M**.
 - **SQL analysis:** CTEs, window functions, `PIVOT` and a stored procedure. **72% of customers are repeat buyers and generate 97% of revenue.**
 - **Segmentation and cohorts:** RFM and K-Means on 5,852 customers. **42 customers hold 27% of revenue.** Retention peaks at ~22% in month 2, then erodes.
@@ -51,6 +54,12 @@ My projects follow one standard: data is cleaned and validated, assumptions are 
 <p align="center">
   <a href="https://github.com/giannispsomas/End-to-End-Retail-Retention-Analysis/blob/main/power_bi/OnlineRetailII.pdf">
     <img src="https://github.com/giannispsomas/End-to-End-Retail-Retention-Analysis/raw/main/power_bi/images/1_Business_Overview.png" alt="Power BI dashboard: business overview" width="48%">
+  </a>
+  <a href="https://github.com/giannispsomas/End-to-End-Retail-Retention-Analysis/blob/main/power_bi/OnlineRetailII.pdf">
+    <img src="https://github.com/giannispsomas/End-to-End-Retail-Retention-Analysis/raw/main/power_bi/images/4_Customer_Segmentation.png" alt="Power BI dashboard: customer segmentation" width="48%">
+  </a>
+  <a href="https://github.com/giannispsomas/End-to-End-Retail-Retention-Analysis/blob/main/power_bi/OnlineRetailII.pdf">
+    <img src="https://github.com/giannispsomas/End-to-End-Retail-Retention-Analysis/raw/main/power_bi/images/5_Cohort_and_Retention.png" alt="Power BI dashboard: cohort and retention" width="48%">
   </a>
   <a href="https://github.com/giannispsomas/End-to-End-Retail-Retention-Analysis/blob/main/power_bi/OnlineRetailII.pdf">
     <img src="https://github.com/giannispsomas/End-to-End-Retail-Retention-Analysis/raw/main/power_bi/images/6_Churn_Risk.png" alt="Power BI dashboard: churn risk" width="48%">
