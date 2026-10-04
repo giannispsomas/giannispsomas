@@ -1,29 +1,29 @@
 <h1 align="center">Giannis Psomas</h1>
-<h3 align="center">Data Analyst · SQL Server · Power BI · Python</h3>
-<p align="center"><i>I turn raw commercial data into retention, churn and growth decisions.</i></p>
+<h3 align="center">Data Analyst</h3>
+<p align="center"><b>SQL Server (T-SQL)</b> · <b>Power BI (DAX)</b> · <b>Python</b> · <b>Excel</b></p>
+<p align="center"><i>Clean data, clear answers, and recommendations worth acting on.</i></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/giannis-psomas/"><img src="https://img.shields.io/badge/LinkedIn-giannis--psomas-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:psomasgiannis2001@gmail.com"><img src="https://img.shields.io/badge/Email-psomasgiannis2001%40gmail.com-D14836?logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Microsoft-PL--300_Certified-0078D4?logo=microsoft&logoColor=white" alt="PL-300">
+  <a href="mailto:psomasgiannis2001@gmail.com?subject=Hello%20Giannis"><img src="https://img.shields.io/badge/Email-psomasgiannis2001%40gmail.com-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/46493298/6C43F06A1C2655B1?sharingId=47388BA7B38FAAB"><img src="https://img.shields.io/badge/Microsoft-PL--300_Certified-0078D4?logo=microsoft&logoColor=white" alt="Microsoft PL-300 certification"></a>
+  <a href="https://cs50.harvard.edu/certificates/d87a5b73-d158-42b2-8997-17aa7e955e02"><img src="https://img.shields.io/badge/Harvard-CS50x_Certified-A51C30?logo=harvard&logoColor=white" alt="Harvard CS50x certificate"></a>
 </p>
 
 <p align="center">
-  📍 Athens, Greece &nbsp;·&nbsp; 🌍 <b>Looking for remote roles (worldwide), or hybrid in Athens</b>
+  📍 Athens, Greece &nbsp;·&nbsp; 🌍 <b>Open to remote data analyst opportunities with teams anywhere in the world</b>
 </p>
 
 ---
 
 ## 👋 About me
 
-I'm a data analyst who cares about numbers that actually reconcile. My projects follow one standard: the data is cleaned and validated, assumptions are written down, and every figure traces back to a query.
+I'm a data analyst who cares about numbers that actually reconcile. I like turning messy, real-world data into answers a business can use. Every project I build follows one standard: the data is cleaned and validated, assumptions are written down, every figure traces back to a query, and the work ends with a recommendation rather than just a chart.
 
-- 🔧 **My workflow:** model in **SQL Server (T-SQL)** → analyse in **Python** → present in **Power BI**
-- 🎯 **Focus:** customer retention, churn, segmentation, acquisition economics, dashboard design
+- 🔧 **How I work:** I start in **SQL Server (T-SQL)**, profiling and cleaning the raw data and shaping it into a star schema. I take the deeper analysis to **Python** (pandas, scikit-learn) for segmentation, cohorts and predictive scoring. I finish in **Power BI**, with a DAX data model and a dashboard people can use.
+- 🎯 **What I focus on:** understanding customers. Who stays, who leaves, who is worth the most, and what it costs to win them. That covers retention and churn analysis, RFM segmentation, cohort analysis, acquisition economics (CAC, LTV, payback) and clear dashboard design.
 - 🗣️ **Languages:** English (C2) · German (B2) · French (B2). I can work in an international team.
 - 📜 **Certified:** Microsoft **PL-300** (Power BI Data Analyst) · Harvard **CS50x**
-
----
 
 ## 🚀 Featured projects
 
@@ -66,8 +66,6 @@ A fintech case study on a (fictional, synthetic-data) mobile bank. **Which acqui
 
 *Repo and findings coming soon.*
 
----
-
 ## 🛠️ Skills
 
 **Data & BI**
@@ -88,15 +86,11 @@ A fintech case study on a (fictional, synthetic-data) mobile bank. **Which acqui
 
 **Tools:** Git · GitHub
 
----
-
 ## 📫 Let's talk
 
-I'm looking for a **data analyst role, remote or hybrid in Athens**. If you want someone who cleans the data properly and ends with a recommendation you can act on, get in touch.
+I'm open to **remote data analyst roles**, working with teams wherever they are. If you want someone who cleans the data properly and ends with a recommendation you can act on, get in touch.
 
 **[LinkedIn](https://www.linkedin.com/in/giannis-psomas/)** · **[psomasgiannis2001@gmail.com](mailto:psomasgiannis2001@gmail.com)**
-
----
 
 <details>
 <summary>⛓️ Side projects outside analytics (Solidity)</summary>
