@@ -81,6 +81,44 @@ A fintech case study on a (fictional, synthetic-data) mobile bank. **Which acqui
 
 *Repo and findings coming soon.*
 
+## 🎓 University projects
+
+Two analyses rebuilt in Python from coursework at the University of West Attica, each starting with a data audit. **[See both in one repo →](https://github.com/giannispsomas/University-Data-Projects)**
+
+### [Entersoft A.E.: Financial Statement Analysis, 2014–2017](https://github.com/giannispsomas/University-Data-Projects/tree/main/entersoft-financial-analysis)
+`Python` `pandas` `Excel` — *4 years of statements, audited against the published annual reports*
+
+I checked the coursework inputs against Entersoft's published annual reports and **corrected 5 transcription errors** (two transposed pairs and a typo) that had distorted the margin and interest-cover ratios. On the verified data, the EBIT margin stepped down from 24% to 12% in 2015 and then held at 14–15%, while receivables stay at about 200 days of sales.
+
+📄 [**One-page summary**](https://github.com/giannispsomas/University-Data-Projects/blob/main/entersoft-financial-analysis/Entersoft_Financial_Analysis_Summary.pdf) · 📓 [**Notebook**](https://github.com/giannispsomas/University-Data-Projects/blob/main/entersoft-financial-analysis/analysis.ipynb)
+
+<p align="center">
+  <a href="https://github.com/giannispsomas/University-Data-Projects/tree/main/entersoft-financial-analysis">
+    <img src="https://raw.githubusercontent.com/giannispsomas/University-Data-Projects/main/entersoft-financial-analysis/figures/fig2_workbook_vs_annual_report.png" alt="Workbook inputs versus the published annual report: operating expenses and depreciation" width="48%">
+  </a>
+  <a href="https://github.com/giannispsomas/University-Data-Projects/tree/main/entersoft-financial-analysis">
+    <img src="https://raw.githubusercontent.com/giannispsomas/University-Data-Projects/main/entersoft-financial-analysis/figures/fig1_growth_and_margins.png" alt="Entersoft sales and margins, 2014 to 2017" width="48%">
+  </a>
+</p>
+
+---
+
+### [Film Tourism in Greece: Survey Analysis](https://github.com/giannispsomas/University-Data-Projects/tree/main/film-tourism-survey)
+`Python` `pandas` `SciPy` — *60 survey responses*
+
+I cleaned and validated the survey data against the original paper (21 of 24 published figures reproduced exactly), then tested group differences with multiple-comparison correction. **58% would travel to a film set.** Students were more willing than other respondents (69% vs 38%), but the difference was **not significant after correction**, so it is reported as a hypothesis, not a finding. The original survey was made together with a fellow student.
+
+📄 [**One-page summary**](https://github.com/giannispsomas/University-Data-Projects/blob/main/film-tourism-survey/Film_Tourism_Survey_Summary.pdf) · 📓 [**Notebook**](https://github.com/giannispsomas/University-Data-Projects/blob/main/film-tourism-survey/analysis.ipynb)
+
+<p align="center">
+  <a href="https://github.com/giannispsomas/University-Data-Projects/tree/main/film-tourism-survey">
+    <img src="https://raw.githubusercontent.com/giannispsomas/University-Data-Projects/main/film-tourism-survey/figures/fig1_key_indicators.png" alt="Film tourism survey: key indicators with 95% confidence intervals" width="48%">
+  </a>
+  <a href="https://github.com/giannispsomas/University-Data-Projects/tree/main/film-tourism-survey">
+    <img src="https://raw.githubusercontent.com/giannispsomas/University-Data-Projects/main/film-tourism-survey/figures/fig2_travel_by_segment.png" alt="Willingness to travel to a film set, students versus other respondents" width="48%">
+  </a>
+</p>
+
 ## 🛠️ Skills
 
 **Data & BI**
