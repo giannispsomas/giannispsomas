@@ -75,8 +75,6 @@ A fintech case study on a (fictional, synthetic-data) mobile bank. **Which acqui
 - Loan defaults traced back to acquisition source
 - Excel finance model with budget scenarios, plus a Power BI executive dashboard
 
-*Repo and findings coming soon.*
-
 ## 🎓 University projects
 
 Two analyses rebuilt in Python from coursework at the University of West Attica, each starting with a data audit. **[See both in one repo →](https://github.com/giannispsomas/University-Data-Projects)**
