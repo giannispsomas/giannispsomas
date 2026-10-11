@@ -13,6 +13,8 @@
 
 <p align="center">📍 Athens, Greece (UTC+2 / UTC+3)</p>
 
+---
+
 ## 👋 About me
 
 Data analyst, Microsoft PL-300 certified, with end-to-end project experience in SQL Server (T-SQL), Python and Power BI. I turn raw commercial data into actionable retention and churn insights, and I am looking for a remote data analyst role.
