@@ -21,6 +21,7 @@ My projects follow one standard: data is cleaned and validated, assumptions are 
 
 - 🔧 **How I work:** I clean and model raw data in **SQL Server (T-SQL)**, run the deeper analysis in **Python** (pandas, scikit-learn), and present the results in **Power BI** with a DAX model and a dashboard people can use.
 - 🎯 **What I focus on:** Customer analytics: retention and churn, segmentation, cohorts, acquisition economics and dashboard design.
+- 🔎 **Looking for:** remote data analyst roles in customer analytics and BI, based in Athens (EU) and available across European time zones.
 - 🗣️ **Languages:** English (C2) · German (B2) · French (B2)
 - 📜 **Certified:** Microsoft **PL-300** (Power BI Data Analyst) · Harvard **CS50x**
 
