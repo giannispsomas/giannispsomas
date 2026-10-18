@@ -46,7 +46,7 @@ My projects follow one standard: data is cleaned and validated, assumptions are 
 - **Key accounts:** Assign dedicated account management to the 42 highest-value customers, who hold 27% of revenue.
 - **Win-back:** Prioritise outreach to the 589 customers who lapsed 91–180 days ago, the most recoverable group.
 
-📊 [**Power BI report (PDF)**](https://github.com/giannispsomas/End-To-End-Retail-Retention-Analysis/blob/main/power_bi/Retention_Analysis.pdf) · 🎥 [**Video walkthrough**](https://youtu.be/I_UvFsbfLRI) · 📄 [**Project brief**](https://github.com/giannispsomas/End-To-End-Retail-Retention-Analysis/blob/main/Project%20Brief.pdf)
+📊 [**Power BI report (PDF)**](https://github.com/giannispsomas/End-To-End-Retail-Retention-Analysis/blob/main/power_bi/Retention_Analysis.pdf) · 🎥 [**Video walkthrough**](https://youtu.be/I_UvFsbfLRI) · 📄 [**Case study**](https://github.com/giannispsomas/End-To-End-Retail-Retention-Analysis/blob/main/Case_Study.md)
 
 <p align="center">
   <a href="https://github.com/giannispsomas/End-To-End-Retail-Retention-Analysis/blob/main/power_bi/Retention_Analysis.pdf">
