@@ -65,16 +65,42 @@ My projects follow one standard: data is cleaned and validated, assumptions are 
 
 ---
 
-### 2. Neobank Growth Engine — *in progress* 🚧
-`SQL Server (T-SQL)` `Excel` `Power BI`
+### 2. [FinTech Customer Acquisition and Profitability Analysis](https://github.com/giannispsomas/FinTech-Customer-Acquisition-and-Profitability-Analysis)
+`SQL Server (T-SQL)` `Excel (Solver)` `Power BI (DAX)` — *10 tables, 136K rows (synthetic data)*
 
-A fintech case study on a (fictional, synthetic-data) mobile bank. **Which acquisition channels bring customers who are actually profitable, and how should next quarter's budget be reallocated?**
+**The question:** Which acquisition channels bring profitable customers for a fictional neobank, and how should next quarter's budget be reallocated?
 
-- Funnel analysis from ad impression to active use
-- CAC, LTV and payback period by channel
-- Last-touch vs multi-touch attribution
-- Loan defaults traced back to acquisition source
-- Excel finance model with budget scenarios, plus a Power BI executive dashboard
+**The answer in one line:** Only referral earns money per customer after credit losses (+54 EUR), while affiliate looks best before them (252 EUR) and worst after them (-491 EUR), because 24% of its loans default.
+
+- **Data modelling:** Profiled and cleaned 10 tables in T-SQL, removing **100 duplicate customer records**, and defined every metric once in **10 reporting views**.
+- **Unit economics:** CAC from **12.47 EUR** (referral) to **65.59 EUR** (paid social), with payback in 2 to 6 months before credit losses.
+- **Attribution and campaigns:** Position-based credit gives paid social about **20% fewer customers** than the recorded channel. One campaign costs **365 EUR per customer** against a channel median of 62.
+- **Credit risk:** Default rate and credit loss by channel on 1,587 seasoned loans. **Affiliate defaults on 24.1%**, others on 6.5% to 12.5%.
+- **Budget model:** Response curves and a Solver optimizer in Excel, tested in 8 scenarios. Modelled uplift of about **40,700 EUR** for the quarter.
+- **Dashboard:** 5-page Power BI report with 41 DAX measures, plus ranked recommendations.
+
+**Recommendations:**
+
+- **Paid social:** Stop Summer Reach style spend, which took 24.5% of the channel's budget at five to six times the normal cost per customer.
+- **Affiliate:** Tighten credit rules for affiliate customers (37% of affiliate students show an early default) before cutting its spend.
+- **Referral:** Move money to referral in steps, as a test of whether it scales.
+
+📊 [**Power BI report (PDF)**](https://github.com/giannispsomas/FinTech-Customer-Acquisition-and-Profitability-Analysis/blob/main/power_bi/Customer_Acquisition_Analysis.pdf) · 📄 [**Case study**](https://github.com/giannispsomas/FinTech-Customer-Acquisition-and-Profitability-Analysis/blob/main/Case_Study.md) · 🧾 [**One-page summary**](https://github.com/giannispsomas/FinTech-Customer-Acquisition-and-Profitability-Analysis/blob/main/Executive_Summary.pdf)
+
+<p align="center">
+  <a href="https://github.com/giannispsomas/FinTech-Customer-Acquisition-and-Profitability-Analysis/blob/main/power_bi/Customer_Acquisition_Analysis.pdf">
+    <img src="https://github.com/giannispsomas/FinTech-Customer-Acquisition-and-Profitability-Analysis/raw/main/power_bi/images/1_Executive.png" alt="Power BI dashboard: executive" width="48%">
+  </a>
+  <a href="https://github.com/giannispsomas/FinTech-Customer-Acquisition-and-Profitability-Analysis/blob/main/power_bi/Customer_Acquisition_Analysis.pdf">
+    <img src="https://github.com/giannispsomas/FinTech-Customer-Acquisition-and-Profitability-Analysis/raw/main/power_bi/images/3_Attribution_and_Campaigns.png" alt="Power BI dashboard: attribution and campaigns" width="48%">
+  </a>
+  <a href="https://github.com/giannispsomas/FinTech-Customer-Acquisition-and-Profitability-Analysis/blob/main/power_bi/Customer_Acquisition_Analysis.pdf">
+    <img src="https://github.com/giannispsomas/FinTech-Customer-Acquisition-and-Profitability-Analysis/raw/main/power_bi/images/4_Credit_Risk.png" alt="Power BI dashboard: credit risk" width="48%">
+  </a>
+  <a href="https://github.com/giannispsomas/FinTech-Customer-Acquisition-and-Profitability-Analysis/blob/main/power_bi/Customer_Acquisition_Analysis.pdf">
+    <img src="https://github.com/giannispsomas/FinTech-Customer-Acquisition-and-Profitability-Analysis/raw/main/power_bi/images/5_Budget_Scenarios.png" alt="Power BI dashboard: budget scenarios" width="48%">
+  </a>
+</p>
 
 ## 🎓 University projects
 
