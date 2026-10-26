@@ -1,7 +1,6 @@
 <h1 align="center">Giannis Psomas</h1>
 <h3 align="center">Data Analyst</h3>
 <p align="center"><b>SQL Server (T-SQL)</b> · <b>Power BI (DAX)</b> · <b>Python</b> · <b>Excel</b></p>
-<p align="center"><i>Clean data, clear answers, and recommendations worth acting on.</i></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/giannispsomas/"><img src="https://img.shields.io/badge/LinkedIn-giannispsomas-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -15,7 +14,7 @@
 
 ## 👋 About me
 
-Data analyst, Microsoft PL-300 certified, with end-to-end project experience in SQL Server (T-SQL), Python, Excel and Power BI. I turn raw commercial data into actionable retention, acquisition and profitability insights, and I am looking for a remote data analyst role.
+Data analyst, Microsoft PL-300 certified, with end-to-end project experience in SQL Server (T-SQL), Python, Excel and Power BI. I turn raw commercial data into actionable retention, acquisition and profitability insights.
 
 My projects follow one standard: data is cleaned and validated, assumptions are documented, every figure traces back to a query, and each analysis ends with a recommendation.
 
@@ -46,7 +45,7 @@ My projects follow one standard: data is cleaned and validated, assumptions are 
 - **Key accounts:** Assign dedicated account management to the 42 highest-value customers, who hold 27% of revenue.
 - **Win-back:** Prioritise outreach to the 589 customers who lapsed 91–180 days ago, the most recoverable group.
 
-📊 [**Power BI report (PDF)**](https://github.com/giannispsomas/End-To-End-Retail-Retention-Analysis/blob/main/power_bi/Retention_Analysis.pdf) · 🎥 [**Video walkthrough**](https://youtu.be/I_UvFsbfLRI) · 📄 [**Case study**](https://github.com/giannispsomas/End-To-End-Retail-Retention-Analysis/blob/main/Case_Study.md)
+📊 [**Power BI report (PDF)**](https://github.com/giannispsomas/End-To-End-Retail-Retention-Analysis/blob/main/power_bi/Retention_Analysis.pdf) · 🎥 [**Video walkthrough**](https://youtu.be/I_UvFsbfLRI) · 📄 [**Case study**](https://github.com/giannispsomas/End-To-End-Retail-Retention-Analysis/blob/main/Case_Study.md) · 🧾 [**Executive summary**](https://github.com/giannispsomas/End-To-End-Retail-Retention-Analysis/blob/main/Executive_Summary.pdf)
 
 <p align="center">
   <a href="https://github.com/giannispsomas/End-To-End-Retail-Retention-Analysis/blob/main/power_bi/Retention_Analysis.pdf">
@@ -85,7 +84,7 @@ My projects follow one standard: data is cleaned and validated, assumptions are 
 - **Affiliate:** Tighten credit rules for affiliate customers (37% of affiliate students show an early default) before cutting its spend.
 - **Referral:** Move money to referral in steps, as a test of whether it scales.
 
-📊 [**Power BI report (PDF)**](https://github.com/giannispsomas/FinTech-Customer-Acquisition-and-Profitability-Analysis/blob/main/power_bi/Customer_Acquisition_Analysis.pdf) · 📄 [**Case study**](https://github.com/giannispsomas/FinTech-Customer-Acquisition-and-Profitability-Analysis/blob/main/Case_Study.md) · 🧾 [**One-page summary**](https://github.com/giannispsomas/FinTech-Customer-Acquisition-and-Profitability-Analysis/blob/main/Executive_Summary.pdf)
+📊 [**Power BI report (PDF)**](https://github.com/giannispsomas/FinTech-Customer-Acquisition-and-Profitability-Analysis/blob/main/power_bi/Customer_Acquisition_Analysis.pdf) · 📄 [**Case study**](https://github.com/giannispsomas/FinTech-Customer-Acquisition-and-Profitability-Analysis/blob/main/Case_Study.md) · 🧾 [**Executive summary**](https://github.com/giannispsomas/FinTech-Customer-Acquisition-and-Profitability-Analysis/blob/main/Executive_Summary.pdf)
 
 <p align="center">
   <a href="https://github.com/giannispsomas/FinTech-Customer-Acquisition-and-Profitability-Analysis/blob/main/power_bi/Customer_Acquisition_Analysis.pdf">
