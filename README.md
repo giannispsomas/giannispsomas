@@ -37,6 +37,7 @@ My projects follow one standard: data is cleaned and validated, assumptions are 
 - **SQL analysis:** CTEs, window functions, `PIVOT` and a stored procedure. **72% of customers are repeat buyers and generate 97% of revenue.**
 - **Segmentation and cohorts:** RFM and K-Means on 5,852 customers. **42 customers hold 27% of revenue.** Retention peaks at ~22% in month 2, then erodes.
 - **Churn scoring:** Logistic regression (**ROC-AUC 0.77**) scoring every customer's churn risk and sizing the revenue at stake.
+- **Statistical checks and models:** Mann-Whitney tests and bootstrap intervals on the main findings, a forward-looking churn model validated on a later period (**ROC-AUC 0.79 to 0.80**), a BG/NBD lifetime value model and a six-month revenue forecast.
 - **Dashboard:** 6-page Power BI report with 21 DAX measures, plus prioritised win-back recommendations.
 
 **Recommendations:**
@@ -75,6 +76,7 @@ My projects follow one standard: data is cleaned and validated, assumptions are 
 - **Unit economics:** CAC from **12.47 EUR** (referral) to **65.59 EUR** (paid social), with payback in 2 to 6 months before credit losses.
 - **Attribution and campaigns:** Position-based credit gives paid social about **20% fewer customers** than the recorded channel. One campaign costs **365 EUR per customer** against a channel median of 62.
 - **Credit risk:** Default rate and credit loss by channel on 1,587 seasoned loans. **Affiliate defaults on 24.1%**, others on 6.5% to 12.5%.
+- **Statistics and credit model:** Bootstrap intervals for CAC and LTV (affiliate is clearly the worst after credit losses, referral's advantage is not proven) and a logistic regression credit model (**ROC-AUC 0.73**) showing most of affiliate's defaults come from its loan mix.
 - **Budget model:** Response curves and a Solver optimizer in Excel, tested in 8 scenarios. Modelled uplift of about **40,700 EUR** for the quarter.
 - **Dashboard:** 6-page Power BI report with 56 DAX measures, plus ranked recommendations.
 
