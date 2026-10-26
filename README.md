@@ -46,7 +46,7 @@ My projects follow one standard: data is cleaned and validated, assumptions are 
 - **Key accounts:** Assign dedicated account management to the 42 highest-value customers, who hold 27% of revenue.
 - **Win-back:** Prioritise outreach to the 589 customers who lapsed 91–180 days ago, the most recoverable group.
 
-📊 [**Power BI report (PDF)**](https://github.com/giannispsomas/End-To-End-Retail-Retention-Analysis/blob/main/power_bi/Retention_Analysis.pdf) · 🎥 [**Video walkthrough**](https://youtu.be/I_UvFsbfLRI) · 📄 [**Case study**](https://github.com/giannispsomas/End-To-End-Retail-Retention-Analysis/blob/main/Case_Study.md) · 🧾 [**Executive summary**](https://github.com/giannispsomas/End-To-End-Retail-Retention-Analysis/blob/main/Executive_Summary.pdf)
+📊 [**Power BI report (PDF)**](https://github.com/giannispsomas/End-To-End-Retail-Retention-Analysis/blob/main/power_bi/Retention_Analysis.pdf) · 🎥 [**Video walkthrough**](https://youtu.be/I_UvFsbfLRI) · 📄 [**Case study**](https://github.com/giannispsomas/End-To-End-Retail-Retention-Analysis/blob/main/Case_Study.md) · 🧾 [**Executive summary**](https://github.com/giannispsomas/End-To-End-Retail-Retention-Analysis/blob/main/Executive_Summary.pdf) · 🎞️ [**Slides**](https://github.com/giannispsomas/End-To-End-Retail-Retention-Analysis/blob/main/Executive_Summary_Slides.pptx)
 
 <p align="center">
   <a href="https://github.com/giannispsomas/End-To-End-Retail-Retention-Analysis/blob/main/power_bi/Retention_Analysis.pdf">
@@ -86,7 +86,7 @@ My projects follow one standard: data is cleaned and validated, assumptions are 
 - **Affiliate:** Tighten credit rules for affiliate customers (37% of affiliate students show an early default) before cutting its spend.
 - **Referral:** Move money to referral in steps, as a test of whether it scales.
 
-🎥 [**Video walkthrough**](https://www.youtube.com/watch?v=IQ7_uw7gf64) · 📊 [**Power BI report (PDF)**](https://github.com/giannispsomas/FinTech-Customer-Acquisition-and-Profitability-Analysis/blob/main/power_bi/Customer_Acquisition_Analysis.pdf) · 📄 [**Case study**](https://github.com/giannispsomas/FinTech-Customer-Acquisition-and-Profitability-Analysis/blob/main/Case_Study.md) · 🧾 [**Executive summary**](https://github.com/giannispsomas/FinTech-Customer-Acquisition-and-Profitability-Analysis/blob/main/Executive_Summary.pdf)
+🎥 [**Video walkthrough**](https://www.youtube.com/watch?v=IQ7_uw7gf64) · 📊 [**Power BI report (PDF)**](https://github.com/giannispsomas/FinTech-Customer-Acquisition-and-Profitability-Analysis/blob/main/power_bi/Customer_Acquisition_Analysis.pdf) · 📄 [**Case study**](https://github.com/giannispsomas/FinTech-Customer-Acquisition-and-Profitability-Analysis/blob/main/Case_Study.md) · 🧾 [**Executive summary**](https://github.com/giannispsomas/FinTech-Customer-Acquisition-and-Profitability-Analysis/blob/main/Executive_Summary.pdf) · 🎞️ [**Slides**](https://github.com/giannispsomas/FinTech-Customer-Acquisition-and-Profitability-Analysis/blob/main/Executive_Summary_Slides.pptx)
 
 <p align="center">
   <a href="https://github.com/giannispsomas/FinTech-Customer-Acquisition-and-Profitability-Analysis/blob/main/power_bi/Customer_Acquisition_Analysis.pdf">
