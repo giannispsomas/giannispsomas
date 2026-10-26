@@ -159,7 +159,7 @@ I cleaned and validated the survey data against the original paper (21 of 24 pub
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 
-**Methods:** Data cleaning and validation · Star schema modelling · Cohort analysis · RFM segmentation · K-means clustering · Logistic regression · CAC and LTV analysis · Attribution modelling · Credit risk analysis · Budget optimisation (Solver) · Hypothesis testing · Dashboard design
+**Methods:** Data cleaning and validation · Star schema modelling · Cohort analysis · RFM segmentation · K-means clustering · Logistic regression · CAC and LTV analysis · Statistical testing (bootstrap, Mann-Whitney) · Forecasting · Customer lifetime value (BG/NBD) · Attribution modelling · Credit risk analysis · Budget optimisation (Solver) · Hypothesis testing · Dashboard design
 
 **Tools:** Git · GitHub
 
