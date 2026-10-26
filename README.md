@@ -65,9 +65,9 @@ My projects follow one standard: data is cleaned and validated, assumptions are 
 ---
 
 ### 2. [FinTech Customer Acquisition and Profitability Analysis](https://github.com/giannispsomas/FinTech-Customer-Acquisition-and-Profitability-Analysis)
-`SQL Server (T-SQL)` `Excel (Solver)` `Power BI (DAX)` — *10 tables, 136K rows (synthetic data)*
+`SQL Server (T-SQL)` `Excel (Solver)` `Power BI (DAX)` — *10 tables, 136K rows*
 
-**The question:** Which acquisition channels bring profitable customers for a fictional neobank, and how should next quarter's budget be reallocated?
+**The question:** Which acquisition channels bring profitable customers for a fictional fintech company, and how should next quarter's budget be reallocated?
 
 **The answer in one line:** Only referral earns money per customer after credit losses (+54 EUR), while affiliate looks best before them (252 EUR) and worst after them (-491 EUR), because 24% of its loans default.
 
