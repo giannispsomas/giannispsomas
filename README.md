@@ -84,7 +84,7 @@ My projects follow one standard: data is cleaned and validated, assumptions are 
 - **Affiliate:** Tighten credit rules for affiliate customers (37% of affiliate students show an early default) before cutting its spend.
 - **Referral:** Move money to referral in steps, as a test of whether it scales.
 
-📊 [**Power BI report (PDF)**](https://github.com/giannispsomas/FinTech-Customer-Acquisition-and-Profitability-Analysis/blob/main/power_bi/Customer_Acquisition_Analysis.pdf) · 📄 [**Case study**](https://github.com/giannispsomas/FinTech-Customer-Acquisition-and-Profitability-Analysis/blob/main/Case_Study.md) · 🧾 [**Executive summary**](https://github.com/giannispsomas/FinTech-Customer-Acquisition-and-Profitability-Analysis/blob/main/Executive_Summary.pdf)
+🎥 [**Video walkthrough**](https://www.youtube.com/watch?v=IQ7_uw7gf64) · 📊 [**Power BI report (PDF)**](https://github.com/giannispsomas/FinTech-Customer-Acquisition-and-Profitability-Analysis/blob/main/power_bi/Customer_Acquisition_Analysis.pdf) · 📄 [**Case study**](https://github.com/giannispsomas/FinTech-Customer-Acquisition-and-Profitability-Analysis/blob/main/Case_Study.md) · 🧾 [**Executive summary**](https://github.com/giannispsomas/FinTech-Customer-Acquisition-and-Profitability-Analysis/blob/main/Executive_Summary.pdf)
 
 <p align="center">
   <a href="https://github.com/giannispsomas/FinTech-Customer-Acquisition-and-Profitability-Analysis/blob/main/power_bi/Customer_Acquisition_Analysis.pdf">
