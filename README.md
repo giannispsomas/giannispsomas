@@ -20,7 +20,7 @@ My projects follow one standard: data is cleaned and validated, assumptions are 
 
 - 🔧 **Stack:** I clean and model data in **SQL Server**, analyse it in **Python** (pandas, scikit-learn), build scenario models in **Excel** (Solver), and present results in **Power BI**.
 - 🎯 **Focus:** customer analytics, covering retention and churn, segmentation, acquisition economics and credit risk.
-- 🔎 **Looking for:** data analyst roles in customer analytics and BI, available across European time zones.
+- 🔎 **Looking for:** data analyst roles, available across multiple different time zones.
 - 🗣️ **Languages:** Greek (Native) · English (C2) · German (B2) · French (B2)
 
 ## 🚀 Featured projects
