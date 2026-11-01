@@ -25,7 +25,7 @@ My projects follow one standard: data is cleaned and validated, assumptions are 
 
 ## 🚀 Featured projects
 
-### 1. [End-To-End Retail Retention Analysis](https://github.com/giannispsomas/End-To-End-Retail-Retention-Analysis)
+### 1. [Retail Retention Analysis](https://github.com/giannispsomas/Retail-Retention-Analysis)
 `SQL Server (T-SQL)` `Python` `Power BI (DAX)` — *1M+ transactions*
 
 **The question:** Where is an online retailer losing customers, and how much revenue can be won back?
@@ -38,14 +38,14 @@ My projects follow one standard: data is cleaned and validated, assumptions are 
 - **Delivery:** a star schema built from 1M+ raw rows and a 6-page Power BI report with 21 DAX measures.
 - **Recommendation:** a day-30 follow-up to repeat buyers, dedicated account management for the top 42, and win-back outreach to the 589.
 
-📊 [**Power BI report (PDF)**](https://github.com/giannispsomas/End-To-End-Retail-Retention-Analysis/blob/main/power_bi/Retention_Analysis.pdf) · 🎥 [**Video walkthrough**](https://youtu.be/I_UvFsbfLRI) · 📄 [**Case study**](https://github.com/giannispsomas/End-To-End-Retail-Retention-Analysis/blob/main/Case_Study.md) · 🧾 [**Executive summary**](https://github.com/giannispsomas/End-To-End-Retail-Retention-Analysis/blob/main/Executive_Summary.pdf) · 🎞️ [**Slides**](https://github.com/giannispsomas/End-To-End-Retail-Retention-Analysis/blob/main/Executive_Summary_Slides.pptx)
+📊 [**Power BI report (PDF)**](https://github.com/giannispsomas/Retail-Retention-Analysis/blob/main/power_bi/Retention_Analysis.pdf) · 🎥 [**Video walkthrough**](https://youtu.be/I_UvFsbfLRI) · 📄 [**Case study**](https://github.com/giannispsomas/Retail-Retention-Analysis/blob/main/Case_Study.md) · 🧾 [**Executive summary**](https://github.com/giannispsomas/Retail-Retention-Analysis/blob/main/Executive_Summary.pdf) · 🎞️ [**Slides**](https://github.com/giannispsomas/Retail-Retention-Analysis/blob/main/Executive_Summary_Slides.pptx)
 
 <p align="center">
-  <a href="https://github.com/giannispsomas/End-To-End-Retail-Retention-Analysis/blob/main/power_bi/Retention_Analysis.pdf">
-    <img src="https://github.com/giannispsomas/End-To-End-Retail-Retention-Analysis/raw/main/power_bi/images/1_Business_Overview.png" alt="Power BI dashboard: business overview" width="48%">
+  <a href="https://github.com/giannispsomas/Retail-Retention-Analysis/blob/main/power_bi/Retention_Analysis.pdf">
+    <img src="https://github.com/giannispsomas/Retail-Retention-Analysis/raw/main/power_bi/images/1_Business_Overview.png" alt="Power BI dashboard: business overview" width="48%">
   </a>
-  <a href="https://github.com/giannispsomas/End-To-End-Retail-Retention-Analysis/blob/main/power_bi/Retention_Analysis.pdf">
-    <img src="https://github.com/giannispsomas/End-To-End-Retail-Retention-Analysis/raw/main/power_bi/images/6_Churn_Risk.png" alt="Power BI dashboard: churn risk" width="48%">
+  <a href="https://github.com/giannispsomas/Retail-Retention-Analysis/blob/main/power_bi/Retention_Analysis.pdf">
+    <img src="https://github.com/giannispsomas/Retail-Retention-Analysis/raw/main/power_bi/images/6_Churn_Risk.png" alt="Power BI dashboard: churn risk" width="48%">
   </a>
 </p>
 
