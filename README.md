@@ -23,20 +23,25 @@ My projects follow one standard: data is cleaned and validated, assumptions are 
 - 🔎 **Looking for:** data analyst roles, available across multiple different time zones.
 - 🗣️ **Languages:** Greek (Native) · English (C2) · German (B2) · French (B2)
 
-## 🚀 Featured projects
+## 🚀 Portfolio Projects
 
 ### 1. [Retail Retention Analysis](https://github.com/giannispsomas/Retail-Retention-Analysis)
 `SQL Server (T-SQL)` `Python` `Power BI (DAX)` — *1M+ transactions*
 
-**The question:** Where is an online retailer losing customers, and how much revenue can be won back?
+**Background:** A UK online retailer that sells gifts and has no stores. Sales look steady, but is the business leaning on customers who are quietly leaving?
 
-**The answer:** 51% of customers have been inactive for 90+ days and hold £3.30M of historical revenue. The 589 who lapsed 91 to 180 days ago are the most recoverable.
+**Data:** 1M+ invoice lines (Online Retail II, UCI), cleaned in T-SQL and modelled as a star schema with one fact table and four dimensions. Revenue reconciles to £19.64M.
 
+**Executive summary:** 51% of customers have been inactive for 90+ days and hold £3.30M of historical revenue. The 589 who lapsed 91 to 180 days ago are the most recoverable.
+
+**Key insights**
 - **Repeat buyers:** 72% of customers, generating **97% of revenue**. The median second order comes on day 57.
 - **Concentration:** **42 customers hold 27% of revenue.**
 - **Models:** RFM and K-Means segmentation, cohort retention, and churn scoring (**ROC-AUC 0.77**).
-- **Delivery:** a star schema built from 1M+ raw rows and a 6-page Power BI report with 21 DAX measures.
-- **Recommendation:** a day-30 follow-up to repeat buyers, dedicated account management for the top 42, and win-back outreach to the 589.
+
+**Recommendations:** a day-30 follow-up to new customers, dedicated account management for the top 42, and win-back outreach to the 589.
+
+**Caveats:** the recommendations are untested hypotheses, the churn score ranks outreach rather than forecasting, and December 2011 is a partial month.
 
 📊 [**Power BI report (PDF)**](https://github.com/giannispsomas/Retail-Retention-Analysis/blob/main/power_bi/Retention_Analysis.pdf) · 🎥 [**Video walkthrough**](https://youtu.be/I_UvFsbfLRI) · 📄 [**Case study**](https://github.com/giannispsomas/Retail-Retention-Analysis/blob/main/Case_Study.md) · 🧾 [**Executive summary**](https://github.com/giannispsomas/Retail-Retention-Analysis/blob/main/Executive_Summary.pdf) · 🎞️ [**Slides**](https://github.com/giannispsomas/Retail-Retention-Analysis/blob/main/Executive_Summary_Slides.pptx)
 
@@ -54,15 +59,20 @@ My projects follow one standard: data is cleaned and validated, assumptions are 
 ### 2. [FinTech Customer Acquisition and Profitability Analysis](https://github.com/giannispsomas/FinTech-Customer-Acquisition-and-Profitability-Analysis)
 `SQL Server (T-SQL)` `Excel (Solver)` `Power BI (DAX)` — *synthetic data, 10 tables, 136K rows*
 
-**The question:** Which acquisition channels bring profitable customers for a fictional fintech company, and how should next quarter's budget be reallocated?
+**Background:** Meltemi Bank, a fictional mobile-only bank in Athens. The growth team is measured on signups, and nobody has measured which channels bring customers who earn more than they cost.
 
-**The answer:** After credit losses only referral has a positive value per customer (+54 EUR). Affiliate looks best before them (252 EUR) and worst after them (-491 EUR), because 24% of its loans default.
+**Data:** 10 tables and 136K rows, cleaned in T-SQL, with 10 reporting views, an Excel Solver budget model and a 6-page Power BI report with 56 DAX measures.
 
+**Executive summary:** after credit losses only referral has a positive value per customer (+54 EUR). Affiliate looks best before them (252 EUR) and worst after them (-491 EUR), because 24% of its loans default.
+
+**Key insights**
 - **Unit economics:** CAC from 12.47 EUR (referral) to 65.59 EUR (paid social). One paid social campaign costs 365 EUR per customer against a channel median of 62.
 - **Statistics:** bootstrap intervals show affiliate is clearly the worst after credit losses. Referral's advantage is not yet proven.
 - **Budget model:** a Solver optimizer tested in 8 scenarios, with a modelled uplift of about **40,700 EUR** for the quarter.
-- **Delivery:** 10 reporting views and a 6-page Power BI report with 56 DAX measures.
-- **Recommendation:** tighten credit rules for affiliate before cutting its spend, stop the overspending campaign, and shift budget to referral in steps.
+
+**Recommendations:** tighten credit rules for affiliate before cutting its spend, stop the overspending campaign, and shift budget to referral in steps.
+
+**Caveats:** the data is generated, the recommendation is an untested hypothesis, and the modelled quarter stays negative because loan losses dominate.
 
 🎥 [**Video walkthrough**](https://www.youtube.com/watch?v=IQ7_uw7gf64) · 📊 [**Power BI report (PDF)**](https://github.com/giannispsomas/FinTech-Customer-Acquisition-and-Profitability-Analysis/blob/main/power_bi/Customer_Acquisition_Analysis.pdf) · 📄 [**Case study**](https://github.com/giannispsomas/FinTech-Customer-Acquisition-and-Profitability-Analysis/blob/main/Case_Study.md) · 🧾 [**Executive summary**](https://github.com/giannispsomas/FinTech-Customer-Acquisition-and-Profitability-Analysis/blob/main/Executive_Summary.pdf) · 🎞️ [**Slides**](https://github.com/giannispsomas/FinTech-Customer-Acquisition-and-Profitability-Analysis/blob/main/Executive_Summary_Slides.pptx)
 
@@ -75,9 +85,9 @@ My projects follow one standard: data is cleaned and validated, assumptions are 
   </a>
 </p>
 
-## 🎓 University projects
+## 🎓 Learning Projects
 
-Two analyses rebuilt in Python from coursework at the University of West Attica, each starting with a data audit. **[See both in one repo →](https://github.com/giannispsomas/University-Data-Projects)**
+Two analyses rebuilt in Python from coursework at the University of West Attica, built to practise the full process, each starting with a data audit. **[See both in one repo →](https://github.com/giannispsomas/University-Data-Projects)**
 
 - **[Entersoft A.E.: Financial Statement Analysis, 2014–2017](https://github.com/giannispsomas/University-Data-Projects/tree/main/entersoft-financial-analysis):** I checked the coursework inputs against the published annual reports and **corrected 5 transcription errors** that had distorted the margin and interest-cover ratios. On the verified data, the EBIT margin stepped down from 24% to 12% in 2015 and then held at 14 to 15%. 📄 [Summary](https://github.com/giannispsomas/University-Data-Projects/blob/main/entersoft-financial-analysis/Entersoft_Financial_Analysis_Summary.pdf) · 📓 [Notebook](https://github.com/giannispsomas/University-Data-Projects/blob/main/entersoft-financial-analysis/analysis.ipynb)
 - **[Film Tourism in Greece: Survey Analysis](https://github.com/giannispsomas/University-Data-Projects/tree/main/film-tourism-survey):** 60 survey responses, validated against the original paper (21 of 24 figures reproduced exactly). **58% would travel to a film set.** Students were more willing (69% vs 38%), but the difference was **not significant after correction**, so it is reported as a hypothesis. The original survey was a joint project with a fellow student. 📄 [Summary](https://github.com/giannispsomas/University-Data-Projects/blob/main/film-tourism-survey/Film_Tourism_Survey_Summary.pdf) · 📓 [Notebook](https://github.com/giannispsomas/University-Data-Projects/blob/main/film-tourism-survey/analysis.ipynb)
